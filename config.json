@@ -1,0 +1,9 @@
+
+{
+    "prefix": "!",
+    "token" : "",
+    "mongoPass" : "",
+    "authUrl" : "https://myclass.apps.binus.ac.id/Auth/Login",
+    "viconUrl" : "https://myclass.apps.binus.ac.id/Home/GetViconSchedule",
+    "url" : "https://myclass.binus.ac.id"
+}
